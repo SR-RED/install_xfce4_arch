@@ -18,7 +18,7 @@ install_xfce4() {
     print_color "Instalando XFCE4..."
     sudo pacman -S --noconfirm xfce4 xfce4-goodies lxdm pcmanfm gtk3 libfm gvfs firefox 
 
-    # Configuración de gdm
+    # Configuración de lxdm
     sudo systemctl enable lxdm
 
     # Eliminación de aplicaciones innecesarias
