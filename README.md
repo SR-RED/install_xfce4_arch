@@ -1,5 +1,5 @@
 <!-- Título del Proyecto -->
-# 🌈 XFCE4 Lite Installer 🚀
+# 🌈 XFCE4 Lite Archlinux Installer 🚀
 
 <!-- Descripción -->
 Instalador ligero para XFCE4 con una experiencia de usuario optimizada.
