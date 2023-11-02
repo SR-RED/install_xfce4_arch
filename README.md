@@ -19,7 +19,7 @@ Guía paso a paso sobre cómo instalar XFCE4 Lite.
 
 ```bash
 # Instalación desde la línea de comandos
-git clone https://github.com/tu-usuario/XFCE4-Lite.git
+git clone https://github.com/SR-RED/install_xfce4_arch
 cd XFCE4-Lite
 chmod +x install.sh
 sudo ./install.sh
