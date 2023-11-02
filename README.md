@@ -4,10 +4,6 @@
 <!-- Descripción -->
 Instalador ligero para XFCE4 con una experiencia de usuario optimizada.
 
-<!-- Escudos/Insignias -->
-![Estado del Proyecto](https://img.shields.io/badge/Estado-Alpha-green)
-![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
-
 <!-- Logo o Imagen Principal -->
 ![XFCE4 Logo](https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Start-Here-Xfce-icon.png)
 
